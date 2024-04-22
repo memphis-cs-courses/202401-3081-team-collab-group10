@@ -3,5 +3,9 @@ class PagesController < ApplicationController
   end
 
   def viv-vos
+
+  end
+  def daltonmann
+
   end
 end
