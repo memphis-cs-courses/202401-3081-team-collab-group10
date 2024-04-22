@@ -3,6 +3,9 @@ class PagesController < ApplicationController
   end
   def amai917
 
+
+  def username
+
   def daltonmann
 
   end
